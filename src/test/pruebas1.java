@@ -44,11 +44,7 @@ class pruebas1 {
 
 	@Test
 	void pruebasGenerales() {
-<<<<<<< HEAD
-		// comentario original
-=======
-		// comentario
->>>>>>> rama1
+		// rama2
 		// dado 2 arreglos de numeros la funcion sumar recibe ambos arreglos y suma de
 		// forma vectoraial
 		// ejemplo 1,2,3 y 4,5,6 la suma seria 5,7,9
